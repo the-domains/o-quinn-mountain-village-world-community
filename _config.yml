@@ -1,4 +1,4 @@
-layout_spectrum: 0
+layout_spectrum: 1
 name: "O'Quinn Mountain Village World Community"
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.1191489
 color:
   brandStrength: 1
-  lightness: 0.7042553
   saturation: 0.812766
-  rhythmicContrast: 0
   brandColors:
     - '#00318D'
     - '#8D3819'
     - '#EEDCDC'
     - '#AF8DA5'
     - '#3B64A6'
-typography_spectrum: 0.1191489
+  lightness: 0.7042553
+  rhythmicContrast: 0
