@@ -1,14 +1,26 @@
 layout_spectrum: 0.9361702
-typography_spectrum: 0.1191489
+name: "O'Quinn Mountain Village World Community"
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.1638161
   brandStrength: 1
-  saturation: 0.2389588
-  rhythmicContrast: 0.7382979
+  lightness: 0.7042553
+  saturation: 0.812766
+  rhythmicContrast: 1
   brandColors:
     - '#00318D'
     - '#8D3819'
     - '#EEDCDC'
     - '#AF8DA5'
     - '#3B64A6'
-name: "O'Quinn Mountain Village World Community"
+typography_spectrum: 0.1191489
