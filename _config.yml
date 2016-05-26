@@ -16,7 +16,7 @@ color:
   brandStrength: 1
   lightness: 0.7042553
   saturation: 0.812766
-  rhythmicContrast: 1
+  rhythmicContrast: 0
   brandColors:
     - '#00318D'
     - '#8D3819'
